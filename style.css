@@ -20,3 +20,9 @@ li a:hover{
 	background-color: lightblue;
 	color: black;
 }
+body{
+	background-color: #ffebcd;
+}
+.navbar{
+	background-color: black;
+}
