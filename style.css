@@ -5,9 +5,11 @@ ul {
 }
 #logo{
 	width: 30px;
+	padding: 0;
 }
 li{
 	float: left;
+	padding: 10px;
 }
 li a{
 	display: block;
@@ -24,5 +26,9 @@ body{
 	background-color: #ffebcd;
 }
 .navbar{
-	background-color: black;
+	background-color: #ffebcd;
+	margin: 10px;
+}
+ul.dropdown-menu{
+	background-color: #ffebcd;
 }
