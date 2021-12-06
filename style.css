@@ -32,7 +32,21 @@ body{
 ul.dropdown-menu{
 	background-color: #ffebcd;
 }
-.para{
-	border: 5px solid black;
-	margin: 0px;
+.paraLeft{
+	border-top: 5px solid black;
+	border-left: 5px solid black;
+	border-right: 3px solid black;
+	border-bottom: 5px solid black;
+	padding: 5px;
+}
+.paraRight{
+	border-top: 5px solid black;
+	border-left: 2px solid black;
+	border-right: 5px solid black;
+	border-bottom: 5px solid black;
+	padding: 5px;
+}
+.homeJumbotron{
+	text-align: center;
+	background-color: green;
 }
