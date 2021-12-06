@@ -32,3 +32,7 @@ body{
 ul.dropdown-menu{
 	background-color: #ffebcd;
 }
+.para{
+	border: 5px solid black;
+	margin: 0px;
+}
