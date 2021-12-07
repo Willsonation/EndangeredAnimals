@@ -19,7 +19,7 @@ li a{
 	text-decoration: none;
 }
 li a:hover{
-	background-color: lightblue;
+	background-color: green;
 	color: black;
 }
 body{
@@ -49,4 +49,15 @@ ul.dropdown-menu{
 .homeJumbotron{
 	text-align: center;
 	background-color: green;
+	color: white;
+}
+.footer{
+	text-align: center;
+	background-color: green;
+	color: white;
+	margin: 10px;
+}
+li.active{
+	background-color: green;
+	color: white;
 }
