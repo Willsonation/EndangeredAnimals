@@ -61,3 +61,10 @@ li.active{
 	background-color: green;
 	color: white;
 }
+.list{
+	text-align: left;
+}
+li.list-group-item{
+	background-color: green;
+	color: white;
+}
